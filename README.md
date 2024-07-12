@@ -20,5 +20,5 @@ PM> Install-Package PersianDateTimePicker -Version 1.0.1
 ### Social Media:
 ![logo](https://www.freepnglogos.com/uploads/telegram-logo-11.png)
 
-[Telegram Channel From References](https://t.me/PublicReference)
+[Telegram Channel From References](https://t.me/Public_Reference)
 
